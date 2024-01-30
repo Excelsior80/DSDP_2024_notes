@@ -17,5 +17,6 @@ Links and notes for DSDP group
 * Atlas of AI by Kate Crawford
 
 #### EDA
+* Python For Data Analysis by Wes McKinney (founder of pandas)
 * The Truthful Art by Alberto Cairo
 
