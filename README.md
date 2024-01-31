@@ -1,7 +1,7 @@
 # DSDP_2024_notes
 Links and notes for DSDP group
 
-## A place to store extra book recommenations, links, exercises
+## A place to store extra book recommendations, links, exercises
 
 ### Books
 #### Class recommendations:
