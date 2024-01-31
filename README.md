@@ -19,4 +19,5 @@ Links and notes for DSDP group
 #### EDA
 * Python For Data Analysis by Wes McKinney (founder of pandas)
 * The Truthful Art by Alberto Cairo
+* The Visual Display of Quantitative Information by Edward Tufte
 
