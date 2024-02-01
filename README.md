@@ -17,8 +17,9 @@ Links and notes for DSDP group
 * Atlas of AI by Kate Crawford
 
 #### EDA Links
-https://www.w3schools.com/python/numpy/default.asp w3schools is good for quick overview of how to do things with interactive examples
-https://www.gapminder.org/videos/200-years-that-changed-the-world/ famous animation from official datasets
+* https://www.w3schools.com/python/numpy/default.asp w3schools is good for quick overview of how to do things with interactive examples
+* https://www.gapminder.org/videos/200-years-that-changed-the-world/ famous animation from official datasets
+* https://wesmckinney.com/book/ Free online version of Python for Data Analysis 
 
 #### EDA Books
 * Python For Data Analysis by Wes McKinney (founder of pandas)
