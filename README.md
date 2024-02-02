@@ -8,6 +8,7 @@ Links and notes for DSDP group
 * Superintelligence, by Nick Bostrum 
 * Life 3.0 by Max Tegmark
 * The Creativity Code by Marcus du Sautoy
+* Data Feminism by By Catherine D'Ignazio and Lauren F. Klein
   
 ### Books and links
 #### Introduction Books (First 3 light reading but thorough)
