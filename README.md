@@ -20,6 +20,7 @@ Links and notes for DSDP group
 #### EDA Links
 * https://www.w3schools.com/python/numpy/default.asp w3schools is good for quick overview of how to do things with interactive examples
 * https://www.gapminder.org/videos/200-years-that-changed-the-world/ famous animation from official datasets
+* https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants an example of changing the impact of the same data
 * https://wesmckinney.com/book/ Free online version of Python for Data Analysis 
 
 #### EDA Books
