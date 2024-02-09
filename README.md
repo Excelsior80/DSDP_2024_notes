@@ -32,7 +32,8 @@ Links and notes for DSDP group
 * https://mail.python.org/pipermail/python-ideas/2014-March/027053.html (the @ for matrices)
 * https://www.3blue1brown.com/ animations - really good! .. covers linear algebra, calculus and some machine learning among other topics
 * https://mathworld.wolfram.com/ (also has a derivative calculator)
-* https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations 
+* https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations
+* https://statquest.org/ 
 
 #### Math books
 * Recommended text https://www.oreilly.com/library/view/essential-math-for/9781098102920/
