@@ -23,11 +23,17 @@ Links and notes for DSDP group
 * https://thecorrespondent.com/664/how-maps-in-the-media-make-us-more-negative-about-migrants an example of changing the impact of the same data
 * https://wesmckinney.com/book/ Free online version of Python for Data Analysis
 
-#### Math links
-* https://mail.python.org/pipermail/python-ideas/2014-March/027053.html (the @ for matrices)
-
 #### EDA Books
 * Python For Data Analysis by Wes McKinney (founder of pandas)
 * The Truthful Art by Alberto Cairo (recommended by person in previosu cohort, and very good)
 * The Visual Display of Quantitative Information by Edward Tufte (famous, beutiful)
 
+#### Math links
+* https://mail.python.org/pipermail/python-ideas/2014-March/027053.html (the @ for matrices)
+* https://www.3blue1brown.com/ animations - really good! .. covers linear algebra, calculus and some machine learning among other topics
+* https://mathworld.wolfram.com/ (also has a derivative calculator)
+* https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations 
+
+#### Math books
+* Recommended text https://www.oreilly.com/library/view/essential-math-for/9781098102920/
+* Some optional further reading in courseware
