@@ -40,5 +40,5 @@ Links and notes for DSDP group
 * Some optional further reading in courseware
 
 ### Machine Learning 1
-Mitchell paper 'Model Cards for Model Reporting'
-New EU Legislation https://digital-strategy.ec.europa.eu/en
+* Mitchell paper 'Model Cards for Model Reporting'
+* New EU Legislation https://digital-strategy.ec.europa.eu/en
