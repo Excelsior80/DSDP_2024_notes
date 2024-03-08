@@ -38,3 +38,7 @@ Links and notes for DSDP group
 #### Math books
 * Recommended text https://www.oreilly.com/library/view/essential-math-for/9781098102920/
 * Some optional further reading in courseware
+
+### Machine Learning 1
+Mitchell paper 'Model Cards for Model Reporting'
+New EU Legislation https://digital-strategy.ec.europa.eu/en
