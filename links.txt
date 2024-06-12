@@ -1,0 +1,11 @@
+\\INSTRUCTOR\Users\DSDP
+
+https://github.com/Excelsior80/DSDP_2024_notes
+
+preprocessing.csv
+
+Write a model to predict the labels from the fields
+
+With any necessary preprocessing steps 
+
+And document your choices

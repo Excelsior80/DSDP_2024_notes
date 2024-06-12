@@ -1,0 +1,23 @@
+Machine Learning 1 afternoon project.
+
+Find an interesting dataset from anywhere
+Suggestions
+
+UCI https://archive.ics.uci.edu/datasets
+Government Open Data https://www.data.gov.uk/
+Police data https://data.police.uk/
+
+Make a model of any type - 
+Classification/Regression/Clustering
+
+Including:
+
+data exploration
+preprocessing if needed
+fitting
+evaluating
+documenting
+deploying
+explaining a possible use case.
+
+Be ready to give a brief explanation of what and why
